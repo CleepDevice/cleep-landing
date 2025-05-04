@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleep</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Cleep</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</managingEditor>
+    <webMaster>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</webMaster>
+    <copyright>© 2025 Cleep</copyright>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Applications</title>
+      <link>//localhost:1313/articles/applications/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/applications/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cleep-cli</title>
+      <link>//localhost:1313/articles/tools/cleep-cli/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/tools/cleep-cli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cleep-core</title>
+      <link>//localhost:1313/articles/tools/cleep-core/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/tools/cleep-core/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cleep-desktop</title>
+      <link>//localhost:1313/articles/tools/cleep-ci/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/tools/cleep-ci/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cleep-desktop</title>
+      <link>//localhost:1313/articles/tools/cleep-desktop/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/tools/cleep-desktop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>//localhost:1313/articles/project/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <author>tanguy.bonneau&#43;cleep@gmail.com (Cleep)</author>
+      <guid>//localhost:1313/articles/project/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
