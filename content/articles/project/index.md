@@ -30,14 +30,16 @@ So strong from encountered problems, I decided to start something new, focusing 
 
 ## The solution
 
-I decided that Raspberry Pi hardware was really good and stable platform to use:
+I decided that Raspberry Pi board was really good and stable platform to use:
 
 - This hardware already implements Wi-Fi connection without the need of adding something else.
-- The power of the board was enough for most simple usage. If something powerful is necessary (motion detection for example), it is possible to buy a more powerful hardware version.
-- The Raspberry Pi environment is really rich in hardware components. The board has by default a lot of inputs and outputs (called GPIOs).
+- The power of the board was enough for most simple usage. If something powerful is necessary (motion detection for example), it is possible to buy a more powerful board version.
+- The Raspberry Pi environment is really rich in hardware components (named HAT). The board has by default a lot of inputs and outputs (called GPIOs) ideal for makers.
 - The organization behind the Raspberry Pi makes a really good job on application maintenance. So the environment is really stable.
 
 So Raspberry pi was definitely the best choice.
+
+For the software part, I decided to use Python which is one of the most used programmation langage. It is also the langage teached at school. For the graphic part I based my software on angularJS which was one of the most popular at this time.
 
 ## The beginning
 
