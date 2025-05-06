@@ -54,14 +54,14 @@
 #  weight = 40
 
 [[main]]
+  identifier = "github"
   pre = "github"
-  name = "Github"
   url = "https://github.com/CleepDevice"
   weight = 50
 
 [[main]]
+  identifier = "slack"
   pre = "slack"
-  name = ""
   url = "https://cleep.slack.com"
   weight = 60
 
